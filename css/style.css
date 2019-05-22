@@ -68,3 +68,7 @@ h1 {
     padding: 1px;
 }
 
+footer {
+    text-align: right;
+    background: #fff;
+}
